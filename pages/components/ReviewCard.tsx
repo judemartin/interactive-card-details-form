@@ -737,7 +737,7 @@ function ReviewCard() {
           </div>
         </div>
         <button
-          className="absolute top-[339px] mx-8 h-[45px] w-[341px] rounded-3xl bg-[#FC7614] font-overpass text-sm font-bold uppercase tracking-wider text-white hover:cursor-pointer 2xl:text-[15px]"
+          className="absolute top-[339px] mx-8 h-[45px] w-[341px] rounded-3xl bg-[#FC7614] font-overpass text-sm font-bold uppercase tracking-wider text-white hover:cursor-pointer  2xl:text-[15px]"
           onClick={() => setIsReviewCompleted(true)}
         >
           Submit
