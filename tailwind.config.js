@@ -6,7 +6,12 @@ module.exports = {
   ],
   theme: {
     extend: {
-      screens: {},
+      screens: {
+        "2xl": "1440px",
+      },
+      fontFamily: {
+        overpass: ["overpass", "sans-serif"],
+      },
     },
   },
   plugins: [],
