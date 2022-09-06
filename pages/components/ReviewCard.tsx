@@ -128,7 +128,7 @@ function ReviewCard() {
         Please let us know how we did with your support request. All feedback is
         appreciated to help us improve our offering!
       </h3>
-      <div className="absolute top-[217px] mx-6 flex space-x-[18px] ">
+      <div className="absolute top-[217px] mx-6 flex space-x-[55px] ">
         <div className="relative">
           <Circle className="absolute" />
           <h3 className="absolute left-[18px] top-3 font-overpass text-sm text-[#969FAD]">
